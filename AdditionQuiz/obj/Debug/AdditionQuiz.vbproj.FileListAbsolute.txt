@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\bin\Debug\AdditionQuiz.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\bin\Debug\AdditionQuiz.exe
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\bin\Debug\AdditionQuiz.pdb
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\bin\Debug\AdditionQuiz.xml
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\obj\Debug\AdditionQuiz.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\obj\Debug\AdditionQuiz.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\obj\Debug\AdditionQuiz.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\obj\Debug\AdditionQuiz.exe
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\obj\Debug\AdditionQuiz.xml
+c:\users\user\documents\visual studio 2013\Projects\AdditionQuiz\AdditionQuiz\obj\Debug\AdditionQuiz.pdb
